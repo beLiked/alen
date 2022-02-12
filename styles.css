@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 * {
   padding: 0;
@@ -16,10 +15,14 @@ body {
 }
 
 .containerGen {
+  margin-top: 20px;
   background-color: #111111;
   border-radius: 30px;
   max-width: 1600px;
-  max-height: 1100px;
+  min-width: 70vh;
+  /* max-height: 1100px; */
+  margin-bottom: 20px;
+  padding-bottom: 20px;
 }
 .avatar {
   padding-top: 20px;
@@ -38,6 +41,7 @@ body {
   font-weight: 300;
 }
 .subtitle2 {
+  padding: 20px;
   color: white;
   margin-top: 20px;
   margin-bottom: 30px;
@@ -84,4 +88,5 @@ body {
 
 .social img{
   max-width: 110px;
+  padding-bottom: 20px;
 }
