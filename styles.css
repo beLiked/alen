@@ -89,6 +89,7 @@ body {
 }
 
 .social img{
+  pading: 0px;
   max-width: 110px;
   padding-bottom: 20px;
 }
