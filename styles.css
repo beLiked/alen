@@ -5,7 +5,7 @@
 } 
 body {
   font-family: 'Open Sans', sans-serif;
-  overflow: hidden;
+
   margin: 30;
   background: rgb(0, 0, 0);
   display: flex;
